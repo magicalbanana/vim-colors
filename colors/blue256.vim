@@ -1,10 +1,12 @@
+" credits to: lapis
+
 set background=dark
 
 highlight clear
 if exists("syntax_on")
     syntax reset
   endif
-let g:colors_name="kareem256"
+let g:colors_name="blue256"
 
 hi Normal          ctermfg=251      ctermbg=237         cterm=none
 
