@@ -1,5 +1,4 @@
 " credits to: mtglsk
-"
 hi clear
 if exists("syntax_on")
   syntax reset
@@ -72,8 +71,7 @@ hi Type                   ctermfg=67  guifg=#5f87af
 hi PreProc                ctermfg=96  guifg=#875f87
 hi Directory              ctermfg=95  guifg=#875f5f
 hi Underlined             ctermfg=127 guifg=#af00af
-hi Special                ctermfg=173 guifg=#d7875f __ MuShROOM.vim ________________
-" _ Subdued dark-colorscheme _____
+hi Special                ctermfg=173 guifg=#d7875f
 
 hi clear
 if exists("syntax_on")
